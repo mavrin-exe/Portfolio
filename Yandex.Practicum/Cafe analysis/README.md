@@ -1,4 +1,4 @@
-[HTML-версия проекта]([https://skillbox.ru/media/](https://drive.google.com/file/d/1WhrAf1Wogetr0_DPNZPjVCNFbMRnsCnH/view?usp=sharing))
+[HTML-версия проекта](https://skillbox.ru/media/](https://drive.google.com/file/d/1WhrAf1Wogetr0_DPNZPjVCNFbMRnsCnH/view?usp=sharing))
 
 ## Исследования рынка общепита в Москве.
 ## Задачи проекта
